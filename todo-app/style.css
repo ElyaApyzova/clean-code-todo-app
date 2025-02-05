@@ -13,7 +13,7 @@
 .header img {
     width: 100%;
 }
-.header .more_inf {
+.more-info {
     font-family: fantasy, cursive;
 }
 
@@ -22,7 +22,7 @@
       text-align: center;
     }
   }
-.centered-main-page-element {
+.container {
     display: block;
     width: 500px;
     margin: 0 auto 0;
@@ -141,11 +141,11 @@ ul li input[type=text] {
     display: none;
 }
 
-.editMode input[type=text] {
+.edit-mode input[type=text] {
     display: inline-block;
     width: 224px;
 }
 
-.editMode label {
+.edit-mode label {
     display: none;
 }
